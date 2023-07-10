@@ -8,7 +8,7 @@
 * Friends Mode - Play with your best friend!
 
 ## Instruction
-1. Download the zip from (https://github.com/Syrins/TicTacToe-AI/archive/refs/heads/main.zip)
+1. Download the zip from ([Download](https://github.com/Syrins/TicTacToe-AI/archive/refs/heads/main.zip))
 2. Run TicTacToe.exe
 3. Enjoy!
 
