@@ -1,0 +1,15 @@
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.Form1.resources
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.cache
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.pdb
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\bin\Release\TicTacToe.exe.manifest
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\bin\Release\TicTacToe.application
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.exe.manifest
+C:\Users\0\Desktop\TicTacToe-AI-master\TicTacToe\obj\Release\TicTacToe.application
