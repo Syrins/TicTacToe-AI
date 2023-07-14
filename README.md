@@ -5,7 +5,7 @@
 * Easy Mode - AI play random.
 * Medium Mode - AI try not to let you win.
 * Impossible Mode - AI will not let you win, it is unbeatable.
-* Friends Mode - Play with your best friend!
+* Friends Mode - Play with your best friend !
 
 ## Instruction
 1. Download the zip from ([Download](https://github.com/Syrins/TicTacToe-AI/archive/refs/heads/main.zip))
